@@ -1,0 +1,21 @@
+{
+  "name": "playwright-typescript-framework",
+  "version": "1.0.0",
+  "description": "Production-ready Playwright Automation Framework built with TypeScript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazishrafique/playwright-typescript-framework.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nazishrafique/playwright-typescript-framework/issues"
+  },
+  "homepage": "https://github.com/nazishrafique/playwright-typescript-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}
